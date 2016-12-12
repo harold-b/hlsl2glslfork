@@ -14,6 +14,7 @@ xcuserdata
 _ReSharper.*
 *.sdf
 *.opensdf
+*.opendb
 
 CMakeFiles/
 CMakeCache.txt
@@ -31,3 +32,6 @@ tests/out-*.txt
 tests/hlsl2glsltest/hlsl2glsltest
 tests/hlsl2glsltest/out.txt
 *-res.txt
+
+Bin/
+Obj/
